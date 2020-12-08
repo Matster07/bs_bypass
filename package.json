@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.6.1",
     "cheerio": "^1.0.0-rc.3",
     "crypto": "^1.0.1",
     "fingerprintjs2": "^2.1.2",
+    "jsdom": "^16.4.0",
     "jsencrypt": "^3.0.0-rc.1",
     "node-bignumber": "^1.2.1",
     "node-jsencrypt": "^1.0.0",
